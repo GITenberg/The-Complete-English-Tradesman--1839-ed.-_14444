@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Daniel_Defoe
     - http://www.gutenberg.org/browse/authors/j#a26500
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14444#The-Complete-English-Tradesman--1839-ed.-
 gutenberg_issued: '2004-12-24'
 gutenberg_type: Text
 identifiers:
